@@ -8,7 +8,7 @@
 If you use a CDN, disable it temporarily.
 You can enable it after setup.
 
-## Now just copy and run commands below:
+## Now just copy and run commands below
 ```
 apt update &&
 apt install -y curl &&
